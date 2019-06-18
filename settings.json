@@ -1,0 +1,29 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.tree.indent": 12,
+    "workbench.iconTheme": "file-icons",
+    "workbench.colorTheme": "Nord",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2E3440",
+        "sideBar.background": "#20242c",
+        "editor.background": "#20242c",
+        "panel.background": "#2E3440",
+        "terminal.background": "#20242c",
+        "statusBar.background": "#34495E"
+    },
+    "editor.tabSize": 4,
+    "editor.minimap.enabled": false,
+    "editor.minimap.renderCharacters": false,
+    "editor.formatOnPaste": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+}
