@@ -1,7 +1,7 @@
 # vscode-settings
-Global settings for VSCode
+My global settings for Visual Studio Code
 
-## Extensions
+### Extensions
 - arcticicestudio.nord-visual-studio-code
 - christian-kohler.path-intellisense
 - DavidAnson.vscode-markdownlint
