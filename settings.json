@@ -25,5 +25,7 @@
     "editor.minimap.enabled": false,
     "editor.minimap.renderCharacters": false,
     "editor.formatOnPaste": true,
+    "editor.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "400",
     "liveServer.settings.donotShowInfoMsg": true,
 }
