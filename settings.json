@@ -10,6 +10,12 @@
     "[css]": {
         "editor.defaultFormatter": "HookyQR.beautify"
     },
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
     "workbench.tree.indent": 12,
     "workbench.iconTheme": "file-icons",
     "workbench.colorTheme": "Nord",
@@ -19,8 +25,9 @@
         "editor.background": "#20242c",
         "panel.background": "#2E3440",
         "terminal.background": "#20242c",
-        "statusBar.background": "#34495E"
+        "statusBar.background": "#8e44ad"
     },
+    "workbench.statusBar.feedback.visible": false,
     "editor.tabSize": 4,
     "editor.minimap.enabled": false,
     "editor.minimap.renderCharacters": false,
@@ -28,4 +35,7 @@
     "editor.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace",
     "editor.fontWeight": "400",
     "liveServer.settings.donotShowInfoMsg": true,
+    "python.jediEnabled": false,
+    "explorer.confirmDelete": false,
+    
 }
