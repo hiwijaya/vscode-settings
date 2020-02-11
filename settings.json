@@ -13,7 +13,7 @@
     "[jsonc]": {
         "editor.defaultFormatter": "HookyQR.beautify"
     },
-    "workbench.tree.indent": 12,
+    "workbench.tree.indent": 16,
     "workbench.iconTheme": "file-icons",
     "workbench.colorTheme": "Nord",
     "workbench.colorCustomizations": {
