@@ -22,7 +22,8 @@
         "editor.background": "#20242c",
         "panel.background": "#2E3440",
         "terminal.background": "#20242c",
-        "statusBar.background": "#8e44ad"
+        "statusBar.background": "#8FBCBB",
+        "statusBar.foreground": "#000000"
     },
     "workbench.statusBar.feedback.visible": false,
     "editor.tabSize": 4,
